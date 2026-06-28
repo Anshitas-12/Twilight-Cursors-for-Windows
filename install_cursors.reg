@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Cursors]
+"Scheme Source"=dword:00000002
+"Arrow"="REPLACE_WITH_FULL_PATH\\cursors\\default.cur"
+"Help"="REPLACE_WITH_FULL_PATH\\cursors\\help.cur"
+"AppStarting"="REPLACE_WITH_FULL_PATH\\cursors\\progress.ani"
+"Wait"="REPLACE_WITH_FULL_PATH\\cursors\\wait.ani"
+"Crosshair"="REPLACE_WITH_FULL_PATH\\cursors\\crosshair.cur"
+"IBeam"="REPLACE_WITH_FULL_PATH\\cursors\\text.cur"
+"NWPen"="REPLACE_WITH_FULL_PATH\\cursors\\pencil.cur"
+"No"="REPLACE_WITH_FULL_PATH\\cursors\\not-allowed.cur"
+"SizeNS"="REPLACE_WITH_FULL_PATH\\cursors\\size_ver.cur"
+"SizeWE"="REPLACE_WITH_FULL_PATH\\cursors\\size_hor.cur"
+"SizeNWSE"="REPLACE_WITH_FULL_PATH\\cursors\\size_fdiag.cur"
+"SizeNESW"="REPLACE_WITH_FULL_PATH\\cursors\\size_bdiag.cur"
+"SizeAll"="REPLACE_WITH_FULL_PATH\\cursors\\fleur.cur"
+"UpArrow"="REPLACE_WITH_FULL_PATH\\cursors\\up-arrow.cur"
+"Hand"="REPLACE_WITH_FULL_PATH\\cursors\\pointer.cur"
