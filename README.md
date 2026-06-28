@@ -4,7 +4,7 @@ A native Windows port of the [Twilight Cursors](https://github.com/yeyushengfan2
 
 This repo contains the same artwork converted into real Windows `.cur` / `.ani` files (32×32, PNG-compressed cursor resources), ready to install — no Linux, no XCursor tooling required.
 
-The conversion was done with [linux-cursor-to-windows-converter](#) (link your tool repo here), a small Python tool that reads the theme's SVG source and per-cursor hotspot config directly, rather than guessing.
+The conversion was done with [https://github.com/Anshitas-12/linux-cursor-to-windows-converter](#) (link your tool repo here), a small Python tool that reads the theme's SVG source and per-cursor hotspot config directly, rather than guessing.
 
 ## What's included
 
@@ -34,4 +34,4 @@ All credit for the original artwork and design goes to yeyushengfan258. This rep
 ## Credits
 
 - Original theme & artwork: [yeyushengfan258/Twilight-Cursors](https://github.com/yeyushengfan258/Twilight-Cursors)
-- Conversion tool: [link your converter repo here]
+- Conversion tool: https://github.com/Anshitas-12/linux-cursor-to-windows-converter
